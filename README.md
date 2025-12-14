@@ -1,3 +1,4 @@
+
 # Big_mart_sales_analysis
 End-to-end data analysis project using Python (Pandas, NumPy) and Power BI. The project focuses on data cleaning, feature engineering, exploratory data analysis (EDA), and interactive dashboard creation to uncover sales trends across products and outlets.
 
@@ -49,4 +50,7 @@ End-to-end data analysis project using Python (Pandas, NumPy) and Power BI. The 
 - Added slicers for dynamic filtering and better insights.
 
 ---
+<img width="1613" height="914" alt="Screenshot 2025-12-13 214300" src="https://github.com/user-attachments/assets/eac4bdb8-7423-4c4f-9959-ed756b14d1b5" />
+<img width="1611" height="922" alt="Screenshot 2025-12-13 214349" src="https://github.com/user-attachments/assets/5be19694-c4fb-496c-9e87-79631c6801af" />
+
 
